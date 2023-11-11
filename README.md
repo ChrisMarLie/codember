@@ -13,7 +13,8 @@ Coding challenge made by [Midudev](https://github.com/midudev).
 |                                |                      **Solutions**                |                                                      |
 |:------------------------------:|:------------------------------------------------: |:---------------------------------------------------:	|
 |        **Challenge**        	 |                        **C++**                    |                       **Python**                     |
-| [Challenge 01](challenge01)  🦝| [challenge01.cc](challenge01/cpp/challenge01.cc)  | [challenge01.py](challenge01/python/challenge01.py) 	|
+| [Challenge 01](challenge01)  🦝| [challenge01.cc](challenge01/cpp/challenge01.cc)  | [challenge01.py](challenge01/python/challenge01.py)  |
+| [Challenge 02](challenge02)  🦄| [challenge02.cc](challenge02/cpp/challenge02.cc)  | [challenge02.py](challenge02/python/challenge02.py)  |
 
 ## Run
 
